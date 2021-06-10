@@ -189,14 +189,5 @@ Real Madrid:
   <img height=100 src='https://i.imgur.com/9Rat2Qb.png' style='margin:5px'>
 </a>
 
-Become a sponsor on [Patreon](https://patreon.com/kyber).
 
-## Plugins
-
-Modmail supports the use of third-party plugins to extend or add functionalities to the bot.
-Plugins allow niche features as well as anything else outside of the scope of the core functionality of Modmail. 
-
-You can find a list of third-party plugins using the `?plugins registry`  command or visit the [Unofficial List of Plugins](https://github.com/kyb3r/modmail/wiki/Unofficial-List-of-Plugins) for a list of plugins contributed by the community.
-
-To develop your own, check out the [plugins documentation](https://github.com/kyb3r/modmail/wiki/Plugins).
 
